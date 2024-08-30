@@ -1,0 +1,72 @@
+
+
+
+.lists{
+  width: 560px;
+  height: 530px;
+    margin: 5rem auto;
+    background-color: rgb(238, 238, 238);
+    border: 1px solid #56565688;
+
+}
+
+.list-card{
+
+     padding: 10px;
+}
+
+.list-card img{
+    width: 380px;
+}
+
+.list-card h2{
+    font-size: 29px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 4%;
+
+}
+
+.list-card p{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5px;
+
+}
+
+.duration{
+    cursor: pointer;
+    margin-top: 15px;
+    font-size: 18px;
+    /* background-color: blue; */
+}
+
+.duration span{
+    margin-top: 15px;
+    padding: 6px;
+    font-size: 18px;
+    background-color: rgb(0, 185, 77);
+    margin-left: 65px;
+    border: 1px solid #676767bd;
+    border-radius: 4px;
+    
+}
+
+
+.due-in {
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+
+.due-in button{
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+    background-color: rgb(0, 145, 189);
+    border: 1px solid #565666;
+    outline: none;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px #444;
+}

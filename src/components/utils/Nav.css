@@ -1,0 +1,68 @@
+
+
+.navbar{
+
+    background-color:rgb(250, 194, 120);
+    padding: 25px;
+}
+
+.nav-part{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    
+}
+.nav-part .name{
+    background-color: rgb(30, 131, 226);
+    border-radius: 3px 5px 0px ;
+    padding: 5px;
+}
+
+.nav-part .name:hover{
+    transition: .3s ease-in-out;
+    opacity: .9;
+}
+
+.nav-part a{
+    text-decoration: none;
+    color: #111;
+    font-size: 26px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+}
+
+
+
+.nav-part input{
+    padding: 10.3px;
+    width: 320px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    outline: none;
+    border: 1px solid #565656;
+}
+
+.nav-part button{
+    padding: 10px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    outline: none;
+    border: 1px solid #565656;
+    color: #fff;
+    background-color: teal;
+}
+
+.nav-part .dashboard{
+
+    background-color:rgb(12, 16, 29);
+    border-radius: 3px 4px 0px;
+    padding: 5px;
+    
+    
+}
+
+.nav-part .dashboard a{
+    font-size: 26px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
