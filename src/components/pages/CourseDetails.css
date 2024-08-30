@@ -1,0 +1,94 @@
+
+
+.courseDetails{
+    /* background-color: aqua; */
+}
+
+
+.coursespart{
+    margin: 5rem auto;
+    /* display: flex; */
+    width: 900px;
+  
+    margin-left: 20%;
+    /* background-color: black; */
+    background-color: burlywood;
+    padding: 10px;
+}
+
+.coursespart img{
+    width: 390px;
+    border: 1px solid #56566686;
+    border-radius: 5px;
+}
+
+.coursespart .enroll  button{
+  width: 100px;
+  font-size: 18px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-top: 2%;
+   padding: 8px;
+   font-weight: 600;
+   color: #fff;
+   background-color: rgb(0, 182, 79);
+   outline: none;
+   border: 1px solid #565656;
+}
+
+
+
+.instruct{
+
+    margin-top: 10px;
+}
+
+.instruct .sub-part{
+    margin-top: 7px;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.instruct .open-btn{
+   display: flex;
+    width: 180px;
+    margin: 15px;
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: green;
+    margin-left: 15%; 
+    padding: 10px;
+    border: 1px solid #565656;
+     
+
+    
+}
+
+.open-btn .week-btn{
+    margin-left: 25px;
+    font-size: 20px;
+    width: 160px;
+    
+}
+
+
+.syllabus{
+    margin: 5rem auto;
+    width: 900px; 
+    margin-left: 20%;
+    background-color: burlywood;
+    padding: 10px;
+    
+}
+
+.syllabus h2{
+    font-size: 29px;
+}
+
+
+.syllabus .syllabus-part{
+
+    padding: 10px;
+    width: 500px;
+    font-size: 22px;
+}
+
