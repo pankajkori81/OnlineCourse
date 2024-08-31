@@ -2,6 +2,8 @@
 
 OnlineCourse is a web application designed to help students discover and enroll in courses. It features a Course Listing page with filters, a detailed Course Details screen, and a Student Dashboard to track enrolled courses.
 
+
+
 # Technology used
 . React.js
 . Vite
@@ -10,6 +12,8 @@ OnlineCourse is a web application designed to help students discover and enroll 
 . Router
 . VS Code
 . Git
+
+
 
 
 # Online Hosted Website Link
