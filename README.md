@@ -43,3 +43,14 @@ Allows marking courses as completed.
 Advanced State Management:
 
 Utilizes Redux for effective state management.
+
+
+
+# How to Install and Run
+Clone the repository:
+
+git clone pankajkori81/OnlineCourse 
+
+
+
+
