@@ -70,3 +70,94 @@
     border-radius: 5px;
     box-shadow: 2px 2px 3px #444;
 }
+
+
+
+
+
+/* mobile responsive  */
+
+
+@media screen and (max-width:600px) {
+
+
+
+
+
+.lists{
+    width: 360px;
+    height: 560px;
+      margin: 5rem auto;
+      background-color: rgb(238, 238, 238);
+      border: 1px solid #56565688;
+  
+  }
+  
+  .list-card{
+  
+       padding: 5px;
+  }
+  
+  .list-card img{
+      width: 320px;
+      margin-left: 15px;
+  }
+  
+  .list-card h2{
+      font-size: 22px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      margin-top: 4%;
+      margin-left: 20px;
+  
+  }
+  
+  .list-card p{
+      font-size: 17px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      margin-top: 5px;
+      margin-left: 20px;
+  
+  }
+  
+  .duration{
+      cursor: pointer;
+      margin-top: 15px;
+      font-size: 18px;
+      /* background-color: blue; */
+  }
+  
+  .duration span{
+      margin-top: 20px;
+      padding: 5px;
+      font-size: 18px;
+      background-color: rgb(0, 185, 77);
+      margin-left: 29px;
+      border: 1px solid #676767bd;
+      border-radius: 4px;
+      
+  }
+  
+  
+  .due-in {
+      margin-top: 15px;
+      font-size: 18px;
+  }
+  
+  
+  .due-in button{
+      margin-top: 10px;
+      margin-left: 20px;
+      font-size: 17px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      padding: 5px;
+      background-color: rgb(0, 145, 189);
+      border: 1px solid #565666;
+      outline: none;
+      color: #fff;
+      border-radius: 2px;
+      box-shadow: 2px 2px 3px #444;
+  }
+  
+
+    
+}
