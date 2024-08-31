@@ -66,3 +66,91 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     
 }
+
+
+
+/* mobile responsive  */
+
+
+
+@media screen and (max-width:600px) {
+
+
+.navbar{
+    background-color:rgb(250, 194, 120);
+    padding: 5px;
+}
+
+.nav-part{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style-type: none;
+    margin: 5px;
+    
+}
+.nav-part .name{
+    background-color: rgb(30, 131, 226);
+    border-radius: 3px 5px 0px ;
+    padding: 5px;
+    margin: 5px;
+    
+    
+}
+
+.nav-part .name:hover{
+    transition: .3s ease-in-out;
+    opacity: .9;
+}
+
+.nav-part a{
+    text-decoration: none;
+    color: #111;
+    font-size: 19px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+   
+}
+
+
+
+.nav-part input{
+    padding: 7.3px;
+    width: 220px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    outline: none;
+    border: 1px solid #565656;
+    margin-top: 5px;
+}
+
+.nav-part button{
+    padding: 5.7px;
+    margin-left: 2px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    outline: none;
+    border: 1px solid #565656;
+    color: #fff;
+    background-color: teal;
+}
+
+.nav-part .dashboard{
+
+    background-color:rgb(12, 16, 29);
+    border-radius: 3px 4px 0px;
+    padding: 5px;
+    margin-top: 8px;
+    
+    
+}
+
+.nav-part .dashboard a{
+    
+    font-size: 19px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+    
+}
