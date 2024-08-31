@@ -47,9 +47,17 @@ Utilizes Redux for effective state management.
 
 
 # How to Install and Run
-Clone the repository:
+.Clone the repository:
 
 git clone pankajkori81/OnlineCourse 
+
+.Install dependencies:
+
+cd OnlineCourse
+ npm install
+
+.Start the development server:
+ npm run dev
 
 
 
