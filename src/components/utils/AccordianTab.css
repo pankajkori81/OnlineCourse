@@ -1,8 +1,5 @@
 
 
-
-
-
 .drop-down .drop-down-btn{
     width: 860px;
     margin: 5px;
@@ -16,3 +13,29 @@
     background-color: #d8d6d6;
 
 }
+
+
+
+/* mobile responsive */
+
+
+@media screen and (max-width:600px) {
+
+
+    .drop-down .drop-down-btn{
+        width: 360px;
+        margin: 5px;
+        margin-top: 8px;
+        padding: 10px;
+        border: 1px solid #565656;
+        outline: none;
+        font-size: 17px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 600;
+        background-color: #d8d6d6;
+    
+    }
+    
+    
+}
+
