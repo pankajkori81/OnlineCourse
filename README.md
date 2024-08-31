@@ -61,7 +61,7 @@ cd OnlineCourse
 
 
 # Screenshots
-https://github.com/pankajkori81/OnlineCourse/issues/1#issue-2498690434
 
+![Screenshot from 2024-08-31 12-24-03](https://github.com/user-attachments/assets/17e32328-c9f5-4b59-8a1e-771eb0d26696)
 
 
